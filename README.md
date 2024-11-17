@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sumitnyu8@gmail.com**
 
-- - 🌎 I love **Travelling**
+- 🌎 I love **Travelling**
 
 - ⚡ Fun fact **In IT, by the time you master one tech, a new one’s already speeding by! 🚄💻**
 
