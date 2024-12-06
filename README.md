@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🌎 I love **Travelling and Capturing moments**<br><br>
 - 🌎You found me on Github so i am obviously a **coding enthusiast**<br><br>
-- 🌱 I’m currently solving **Leetcode questions for js**<br><br>
+- 🌱 I’m currently solving **js questions**<br><br>
 - ⚡ Fun fact **In IT, by the time you master one tech, a new one’s already speeding by! 🚄💻**<br><br>
 - 📫 How to reach me **sumitnyu8@gmail.com**<br><br>
 
